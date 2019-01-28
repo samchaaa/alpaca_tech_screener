@@ -1,4 +1,4 @@
-# alpaca_tech_screener
+# Algorithmically Detecting Technical Patterns
 
 See the [Medium writeup here](https://medium.com/automation-generation/algorithmically-detecting-and-trading-technical-chart-patterns-with-python-c577b3a396ed).
 
